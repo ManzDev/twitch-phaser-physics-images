@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Pixel Operator";
+  src: url("fonts/pixel-operator.ttf") format("truetype");
+}
+
+body {
+  background: #223;
+  height: 100vh;
+  margin: 0;
+}
